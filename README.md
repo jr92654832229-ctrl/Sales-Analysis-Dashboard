@@ -24,3 +24,5 @@ Sales Dataset (CSV)
 
 ## Author
 Jay Rathod
+IMCA (Artificial Intelligence & Machine Learning)
+
